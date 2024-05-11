@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # whatsapp_ui
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Flutter_Whatsapp_Ui
+>>>>>>> c67ec549cf8fb8b6b88f87c6896b6710aef360c6
