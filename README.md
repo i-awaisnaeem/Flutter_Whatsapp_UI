@@ -1,5 +1,8 @@
-<<<<<<< HEAD
-# whatsapp_ui
+
+# Whatsapp_Ui
+
+![Beige Elegant New Collection Instagram Post (2)](https://github.com/i-awaisnaeem/Flutter_Whatsapp_Ui/assets/99549253/832fbc13-3bf2-4b57-b795-2265cbe1dc37)
+
 
 A new Flutter project.
 
